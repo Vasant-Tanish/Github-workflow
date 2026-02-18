@@ -4,5 +4,4 @@ echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
-echo "I am learning Devops"
-echo "i am learning git and github batch no 31
+echo "I am learning git & github service"
